@@ -35,7 +35,14 @@ citation-generator/
 │   │   └── package.json
 │   └── python/
 │       ├── citation_logic/
+│       ├── database/
+│       │   ├── __init__.py
+│       │   ├── mongodb_setup.py
+│       │   └── mysql_setup.py
 │       ├── tests/
+│       │   ├── __init__.py
+│       │   ├── test_mongodb_setup.py
+│       │   └── test_mysql_setup.py
 │       └── requirements.txt
 ├── database/
 │   ├── mongodb_scripts/
