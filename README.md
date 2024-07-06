@@ -83,11 +83,11 @@ citation-generator/
 
 ## Usage
 
-[Include instructions on how to use the application once it's set up]
+Soon 🙂
 
 ## API Documentation
 
-[Include link to API documentation or brief overview of main endpoints]
+Soon 🙂
 
 ## Testing
 
@@ -183,5 +183,3 @@ Desmond Karani
 - [Website](🙂)
 
 Project Link: https://github.com/DesmondKarani/Final_Project_Backend
-```
-
